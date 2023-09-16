@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salvatore</h1>
-<h3 align="center">An Italian engineer and computers lover</h3>
+<h3 align="center">Computer engineer and software lover</h3>
 
 - 🔭 I’m currently working at [Webalo](https://www.webalo.it/)
 
