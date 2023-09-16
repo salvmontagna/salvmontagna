@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salvatore</h1>
-<h3 align="center">An Italian engineer and a computer lover</h3>
+<h3 align="center">An Italian engineer and a computers lover</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=svtmontagna" alt="svtmontagna" /></a> </p>
 
