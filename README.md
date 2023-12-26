@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [Siveco TCI](https://siveco-tci.it/)
 
-- 🌱 I’m currently learning **Spring, React**
+- 🌱 I’m currently learning **Java, Spring**
 
 - 👨‍💻 All of my projects are available at [https://github.com/svtmontagna?tab=repositories](https://github.com/salvmontagna?tab=repositories)
 
