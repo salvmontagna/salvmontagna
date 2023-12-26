@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Salvatore</h1>
 <h3 align="center">Computer engineer and software lover</h3>
 
-- 🔭 I’m currently working at [Webalo](https://www.webalo.it/)
+- 🔭 I’m currently working at [Siveco TCI]([(https://siveco-tci.it/))
 
 - 🌱 I’m currently learning **Spring, React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/svtmontagna?tab=repositories](https://github.com/svtmontagna?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/svtmontagna?tab=repositories](https://github.com/salvmontagna?tab=repositories)
 
 - 📫 How to reach me **info@salvatoremontagna.it**
 
