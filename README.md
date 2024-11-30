@@ -6,8 +6,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/salvmontagna?tab=repositories](https://github.com/salvmontagna?tab=repositories)
 
-- 📫 How to reach me **info@salvatoremontagna.it**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/salvatore-montagna/?locale=en_US](https://www.linkedin.com/in/salvatore-montagna/?locale=en_US)
 
 <h3 align="left">Connect with me:</h3>
